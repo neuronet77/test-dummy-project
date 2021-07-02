@@ -1,0 +1,6 @@
+{
+  "require": {
+    "devcoder-xyz/php-dotenv": "^1.0",
+    "ext-mysqli": "*"
+  }
+}
